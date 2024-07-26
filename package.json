@@ -28,7 +28,9 @@
     "@mui/material": "latest",
     "@emotion/react": "latest",
     "@emotion/styled": "latest",
-    "cors": "latest"
+    "cors": "latest",
+    "js-son-agent": "latest",
+    "readline-sync": "latest"
   },
   "scripts": {
     "start": "react-scripts start",
